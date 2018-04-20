@@ -1,4 +1,4 @@
-# Mech105Algorithms
+# Numerical Methods Algorithms 
 ## Algorithms Created for Mech 105 class include the following:
 
 **LU Factorization:**
