@@ -1,9 +1,9 @@
 # False Position Algorithm 
 ## Description
 ### The False Position algorithm is a function that estimates the root of a given function by
-using the false position method.
+### using the false position method.
 
-##Inputs
+#### Inputs
 * func-the function being evaluated.
 * xl-the lower guess
 * xu- the upper guess
@@ -12,4 +12,4 @@ using the false position method.
 * maxiter - the number of iterations desired (will default to 200 if no
      input)
 
-##Outputs
+#### Outputs
