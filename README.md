@@ -1,7 +1,7 @@
 # Mech105Algorithms
 ## Algorithms Created for Mech 105 class include the following:
 
-**LU Facttorization:**
+**LU Factorization:**
      This algorithm performs LU Factorization in a square matrix.
     
 **Composite Simpsons 1/3 Rule:**
