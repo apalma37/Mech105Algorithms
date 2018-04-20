@@ -1,5 +1,5 @@
 # Numerical Methods Algorithms 
-## Algorithms Created for Mech 105 class include the following:
+## Algorithms created for Mech 105 class include the following:
 
 **LU Factorization:**
      This algorithm performs LU Factorization in a square matrix.
